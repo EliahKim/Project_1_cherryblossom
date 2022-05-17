@@ -1,0 +1,44 @@
+html {
+    min-height: 310%;
+}
+
+body {
+    background-image: linear-gradient(#C7E4FF, floralwhite);
+    height: 100%;
+}
+
+#img1 {
+    top: 300px;
+    left: -100px;
+    height: auto;
+    position: relative;
+}
+
+#img2 {
+    top: 800px;
+    left: 100px;
+    height: auto;
+    position: relative;
+}
+
+#img3 {
+    top: 1200px;
+    height: auto;
+    position: relative;
+}
+
+
+#img4 {
+    top: 1600px;
+    height: auto;
+    position: relative;
+}
+
+#box1 img {
+    top: 2000px;
+    left: px;
+    width: 4%;
+    height: auto;
+    position: relative;
+    z-index: 1;
+}
